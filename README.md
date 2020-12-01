@@ -9,7 +9,7 @@ Upzip this files to SDK, and the project path is nRF5_SDK_17.0.2_d674dde\example
 HW  
 Please use your Nordic nRF52DK as TEST Hardware.   
   
-Test
+TEST    
 Use AIN1(p.03)as V+ input ,use interval Vref as reference.  
 When the V+ input is bigger then threshold up , you will get NRF_COMP_EVENT_UP event.  
 When the V+ input is bigger then threshold down ,you will get NRF_COMP_EVENT_DOWN event.  
